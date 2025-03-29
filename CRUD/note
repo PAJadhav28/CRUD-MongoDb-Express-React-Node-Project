@@ -1,0 +1,47 @@
+    
+    Youtube link - https://www.youtube.com/watch?v=enOsPhp2Z6Q
+    CRUD
+    |
+    |----client
+    |----server {terminal - npm init -y}
+
+    > npm init vite
+    > enter project name
+    > select frame work react
+    - go to client directory 
+    > npm install : it will install all packages
+    > npm run dev : to run the server
+    > npm install bootstrap axios react-router-dom(
+        bootstrap - for designing
+        axios - request support*
+        react-router - for routing
+    )
+
+
+    ==== In server ====
+        1st enter into the server folder
+   1) to add json file inti server folder write command:
+        > npm init -y
+
+    2)
+        > npm install express mongoose cors nodemon
+            -install express (framework of node.js) we will create rest api through this
+            -install mongoose used for mongo database
+            -install cors to access backend side into front end side
+            - nodemon automatically refresh server side whenever we made changes and  update it automatically.
+
+        3) create index.js 
+        4) go to the package.json and inside it script write :
+            "start": "nodemon index.js"
+
+
+====================To create connection with mongo db ================
+there are 2 ways i.e online and offline to connect here use offline mode
+
+        install mongodb compas
+        create database : crud
+        now create on collection in it i.e:- user
+
+        with the help of mongoose.connect() make connection with mongo db .pass connection string to this method(You will get this string by clicking on 3 dots of your database connection in mongo compas).
+
+
