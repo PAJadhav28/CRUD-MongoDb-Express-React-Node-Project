@@ -81,6 +81,13 @@ mern-crud-app/
 └── README.md
 ```
 
+##Output
+<img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/signup.png" >
+<img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/login.png" >
+<img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/users_list.png" >
+<img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/add_user.png" >
+<img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/update_user.png" >
+
 ## Deployment
 You can deploy the application using:
 - **Frontend:** Vercel, Netlify
