@@ -81,7 +81,8 @@ mern-crud-app/
 └── README.md
 ```
 
-##Output
+
+## Output
 <img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/signup.png" >
 <img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/login.png" >
 <img src="https://github.com/PAJadhav28/CRUD-MongoDb-Express-React-Node-Project/blob/main/CRUD/outputscreenshots/users_list.png" >
